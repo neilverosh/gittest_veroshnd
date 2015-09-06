@@ -1,0 +1,13 @@
+Hi ! Apart from getting the code up and running ,we also need to be PEP8 compliant.
+let's talk about it briefly.
+It has following standards:
+1. 4spaces of identation-spaces preferred,not tabs
+2. All lines limit to 79 characters
+3. Surround top-level function and class definitions with two blank lines.
+4. Imports should usually be on separate lines
+
+
+FOR more follow this URL : https://www.python.org/dev/peps/pep-0008/
+
+Thanks !
+Bye!
